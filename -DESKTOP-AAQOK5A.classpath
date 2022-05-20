@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Daniela Levezinho/OneDrive - Instituto Superior de Engenharia de Lisboa/Leim/3Sem/MSSN/ProjetoMSSN/core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Daniela Levezinho/OneDrive - Instituto Superior de Engenharia de Lisboa/Leim/3Sem/MSSN/ProjetoMSSN/G4P.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Daniela Levezinho/OneDrive - Instituto Superior de Engenharia de Lisboa/Leim/3Sem/MSSN/ProjetoMSSN/javamp3-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Daniela Levezinho/OneDrive - Instituto Superior de Engenharia de Lisboa/Leim/3Sem/MSSN/ProjetoMSSN/jsyn-20171016.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Daniela Levezinho/OneDrive - Instituto Superior de Engenharia de Lisboa/Leim/3Sem/MSSN/ProjetoMSSN/sound.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
